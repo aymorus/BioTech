@@ -1,6 +1,0 @@
-runtime: php73
-runtime_config:
-  document_root: innovation
-handlers:
-  - url: /css
-    statitc_dir: css
